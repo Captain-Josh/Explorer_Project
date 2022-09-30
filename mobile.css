@@ -1,0 +1,32 @@
+@media screen and (max-width:1100px) {
+    /* Header section start here */
+    
+    .nav-desktop{
+        display: none;
+    }
+    .nav-mobile{
+        display: flex;
+    }
+.header_content{
+    padding: 30px ;
+    width: 100%;
+}
+/* Header section ends here */
+
+
+/* About section start here */
+.about-explore-section{
+    width: 100%;
+}
+/* About section ends here */
+/* Footer section start here */
+footer {
+    flex-direction: column;
+    text-align: center;
+
+}
+.footer-icon-container{
+    margin: 10px 0px;}
+/* Footer section ends here */
+
+}
